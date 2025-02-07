@@ -1,9 +1,16 @@
 # Instrumento Ordinario Unidad 1
-# José Armando Ruano Mascorro
-# Uriel Yañez Aguayo
-
-## Materiales utilizados
-
+# Apartado José Armando Ruano Mascorro
+## Curso NetAcad Python Fundamentals 2 de Cisco.
+### Modulo 1.
+![image](https://github.com/user-attachments/assets/a2c992de-1f05-494d-82c2-b4d698529216)
+### Modulo 2.
+![image](https://github.com/user-attachments/assets/c93091c1-0dc9-481d-87fa-764cb94b82b0)
+### Modulo 3.
+![image](https://github.com/user-attachments/assets/449f422a-9a52-4e4f-8767-7caeae8c2b8f)
+### Modulo 4.
+![image](https://github.com/user-attachments/assets/bf25f906-fda7-45f8-b1db-d252e1538584)
+### Examen Final.
+![image](https://github.com/user-attachments/assets/729df3ea-681b-4551-b05a-d559c98416e6)
 
 ## Software utilizado.
 |Software|Versión|
