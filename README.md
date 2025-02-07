@@ -14,9 +14,10 @@
 
 ## Actividades realizadas en clase
 ### Video Actividad Encender Apagar Led
+https://drive.google.com/file/d/1IViRCpT-Lo5Fr-icBOIbDNZZnPG0oAhf/view?usp=sharing
 
 ### Video Actividad Encender Apagar Led Con Botón
-
+https://drive.google.com/file/d/1IUfTuJG8kH-EWLyalrrhmUEo7kDZxsiv/view?usp=sharing
 
 # Apartado Uriel Yañez Aguayo
 
