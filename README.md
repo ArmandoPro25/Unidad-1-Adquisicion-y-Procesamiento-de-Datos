@@ -24,5 +24,8 @@
 
 # Contenido realizado en pareja
 ## Ejercicio 1: Almacenamiento de Datos
+
+
+## Ejercicio 2: Control de Actuadores
 ### Diagrama
 ![image](https://github.com/user-attachments/assets/9b6583d1-ab61-470f-8844-f8aec9936db6)
