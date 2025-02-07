@@ -20,7 +20,15 @@ https://drive.google.com/file/d/1IViRCpT-Lo5Fr-icBOIbDNZZnPG0oAhf/view?usp=shari
 https://drive.google.com/file/d/1IUfTuJG8kH-EWLyalrrhmUEo7kDZxsiv/view?usp=sharing
 
 # Apartado Uriel Yañez Aguayo
+### Modulo 1.
 
+### Modulo 2.
+
+### Modulo 3.
+
+### Modulo 4.
+
+### Examen Final.
 
 
 # Contenido realizado en pareja
@@ -32,3 +40,5 @@ https://drive.google.com/file/d/1IUfTuJG8kH-EWLyalrrhmUEo7kDZxsiv/view?usp=shari
 ![image](https://github.com/user-attachments/assets/9b6583d1-ab61-470f-8844-f8aec9936db6)
 
 ## Ejercicio 3: Trabajo de soldadura
+![Imagen de WhatsApp 2025-02-06 a las 22 48 22_719a66bc](https://github.com/user-attachments/assets/25957fa9-51e6-4ad0-a695-c87011528a7f)
+
