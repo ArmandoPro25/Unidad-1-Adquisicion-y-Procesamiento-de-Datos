@@ -48,7 +48,13 @@ https://drive.google.com/file/d/11faiEjCJEEH6cfLB42VCnmSzdsrBQEdS/view?usp=shari
 
 # Contenido realizado en pareja
 ## Ejercicio 1: Almacenamiento de Datos
+https://drive.google.com/file/d/1Jbi9x3_WI_TCt2BQEN-SKWJsJy1zFX3p/view?usp=sharing
 
+## Ejercicio: Sensor y actuador
+https://drive.google.com/file/d/1cgZ7EJFRtZhGpZvgj_iOJmr377buB_9P/view?usp=sharing
+
+## Conectar topico y enviar mensajes con Mosquitto
+https://drive.google.com/file/d/1gM3pyV-njfovtusLBjC_JqcQNxdgRZE4/view?usp=sharing
 
 ## Ejercicio 2: Control de Actuadores
 ### Diagrama
